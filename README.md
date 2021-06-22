@@ -1,8 +1,18 @@
 [//]: # (Image References)
 
-[image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+Nowadays, convolutional nets has been all over the places. It become standard practices for deep learning, so with this projects, I’ll introduce you deep learning pipeline that classify resembling dog breed from the given images. It’s quite fun task and will give you a look to deep learning pipeline, so let’s get started.
+
+This projects has been separated into seven steps, given by this following:
+Step 0: Import Datasets
+Step 1: Detect Humans
+Step 2: Detect Dogs
+Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
+Step 4: Use a CNN to Classify Dog Breeds (using Transfer Learning)
+Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+Step 6: Write your Algorithm
+Step 7: Test Your Algorithm
+
+[image1]: ./images/sample_output.png "Sample Output"
 
 
 ## Project Overview
